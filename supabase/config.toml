@@ -1,0 +1,10 @@
+project_id = "mchznyacsyvkrmprxvtu"
+
+[functions.mental-health-chat]
+verify_jwt = false
+
+[functions.analyze-mood]
+verify_jwt = true
+
+[functions.generate-insights]
+verify_jwt = true
