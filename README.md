@@ -1,7 +1,6 @@
-#🧠 Mental Wellness Chatbot
-A compassionate and interactive chatbot designed to provide support and resources for mental well-being. Built with modern web technologies to deliver a seamless and responsive user experience.
+#  Mental Wellness Chatbot
 
-(Suggestion: Create a short GIF of your app and replace the link above)
+A compassionate and interactive chatbot designed to provide support and resources for mental well-being. Built with modern web technologies to deliver a seamless and responsive user experience.
 
 ✨ Overview
 This project is a web-based chatbot application aimed at providing a safe space for users to express their feelings and receive helpful information related to mental health. It leverages the power of AI to understand user inputs and provide supportive responses, resources, and coping strategies. The backend is powered by Supabase, allowing for easy data management and user authentication.
